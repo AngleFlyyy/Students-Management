@@ -11,7 +11,7 @@ import javax.sql.DataSource;
 import java.util.List;
 
 /**
- * @Author 王建
+ * @Author wj
  * @Date 2020/12/18 21:18
  */
 public class StudentDaoImpl implements StudentDao {

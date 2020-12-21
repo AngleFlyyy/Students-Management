@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @Author 王建
+ * @Author wj
  * @Date 2020/12/19 13:20
  */
 public class StudentDeleteServlet extends HttpServlet {

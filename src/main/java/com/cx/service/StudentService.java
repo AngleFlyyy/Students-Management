@@ -5,7 +5,7 @@ import com.cx.po.Student;
 import java.util.List;
 
 /**
- * @author 王建
+ * @author wj
  * @date 2020/12/18 23:16
  */
 public interface StudentService {

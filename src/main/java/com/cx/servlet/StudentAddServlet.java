@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @Author 王建
+ * @Author wj
  * @Date 2020/12/19 15:19
  */
 public class StudentAddServlet extends HttpServlet {

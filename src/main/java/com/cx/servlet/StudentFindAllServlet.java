@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * @Author 王建
+ * @Author wj
  * @Date 2020/12/18 17:27
  */
 public class StudentFindAllServlet extends HttpServlet {
