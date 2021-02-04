@@ -76,6 +76,13 @@
       <artifactId>jstl</artifactId>
       <version>1.2</version>
     </dependency>
+    <!--ofd转pdf插件-->
+    <dependency>
+      <groupId>org.ofdrw</groupId>
+      <artifactId>ofdrw-converter</artifactId>
+      <version>1.7.3</version>
+    </dependency>
+
   </dependencies>
 
   <build>
